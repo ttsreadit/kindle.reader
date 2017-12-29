@@ -11,5 +11,5 @@
 * ‘Kindle Reader’ provides a set of themes to meet your preference
 
 ## Resources: ##
-* [Chrome Extension Site](https://chrome.google.com/webstore/detail/kindle-reader-by-tts-text/boejkcdniilikalcdbigmobbmejjbppf)
+* [Chrome Extension Site](https://chrome.google.com/webstore/detail/tts-read-it-speech-dictio/beofjdkoeblbffhccncmhnmbdngodmnm)
 * [Release Notes](ReleaseNotes.md)
